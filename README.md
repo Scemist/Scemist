@@ -25,7 +25,6 @@
 > Administrador no servidor do Discord...
 
 [Programadores BR](https://discord.gg/FNmJ5wd)
-
 <a href="https://discord.gg/FNmJ5wd" rel="nofollow">
 	<img align="right" src="https://camo.githubusercontent.com/ea149a490b1a0d11c4002e117cda11797a43495eae7cb53ac99a066c476c1bc0/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f373535343833353037363938313732303435" data-canonical-src="https://img.shields.io/discord/755483507698172045" style="max-width: 100%;">
 </a>
