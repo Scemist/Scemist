@@ -1,6 +1,6 @@
 <p align="center">
 	<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist">-->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6&hide=hack">
 </p>
 
 > Experiência, mas interesse não apenas em...
