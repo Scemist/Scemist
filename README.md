@@ -1,4 +1,8 @@
 <p align="center">
+    <img src="https://drive.google.com/uc?id=19WfX3B1f8kDCwj5avGD0rlMbZwFUtblk">
+</p>
+
+<p align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6&hide=hack">
 </p>
 
