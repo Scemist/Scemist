@@ -25,7 +25,9 @@
 	<img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">	
 </p>
 
-> Atualmente trabalhando com **Docker** e olhando para **Python**
+> Atualmente trabalhando **Docker** e **Scrum**.
+>
+> Olhando para **Python** e **Vue.js**.
 
 <!--
 <p align="center">
