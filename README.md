@@ -22,7 +22,10 @@
 	<img src="https://img.shields.io/badge/CSS-264de4?&style=for-the-badge&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black">
 	<img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white">
-	<img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">	
+</P>
+<p align="center">
+<img src="https://img.shields.io/badge/Git-f34f29?style=for-the-badge&logo=git&logoColor=white">	
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 > Atualmente trabalhando **Docker** e **Scrum**.
