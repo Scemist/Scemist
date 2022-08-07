@@ -1,14 +1,20 @@
 Most of time, working with php under Laravel, connecting Postgres and MySQL.
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,postgres,mysql)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql">
+</p>
 
 Not to mention HTML, CSS and JS, Bootstrap too.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
+</p>
 
 Very grateful for Git and Docker.
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker&theme=dark)](https://skillicons.dev)
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=git,docker&theme=dark">
+</p>
 
 ---
 
@@ -18,8 +24,9 @@ Very grateful for Git and Docker.
 
 I'm also very excited to code in Python and Vue.
 
-[![My Skills](https://skillicons.dev/icons?i=python,vue&theme=dark)](https://skillicons.dev)
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=python,vue&theme=dark">
+</p>
 
 ---
 
