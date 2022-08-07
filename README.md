@@ -22,10 +22,10 @@ Very grateful for Git and Docker.
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6&hide=hack">
 </p>
 
-I'm also very excited to code in Python and Vue.
+I'm also very excited to code in Python and Vue and learn more NodeJS.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,vue&theme=dark">
+    <img src="https://skillicons.dev/icons?i=python,vue,nodejs&theme=dark">
 </p>
 
 ---
