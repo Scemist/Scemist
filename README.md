@@ -10,7 +10,7 @@ Not to mention HTML, CSS and JS, Bootstrap too.
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
 </p>
 
-Very grateful for Git and Docker.
+Constantly grateful for Git and Docker.
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=git,docker&theme=dark">
@@ -30,16 +30,18 @@ I'm also very excited to code in Python and Vue and learn more NodeJS.
 
 ---
 
-<img src="https://skillicons.dev/icons?i=discord">
-<p style="float: left">
-Helping and administering as I can in...
-</p>
+> Helping and administering as I can in...
+
+<img align="right" src="https://skillicons.dev/icons?i=discord">
 
 [Programadores BR](https://discord.gg/486UwAfUPa)
+
 
 <a href="https://discord.gg/486UwAfUPa" rel="nofollow">
     <img src="https://camo.githubusercontent.com/ea149a490b1a0d11c4002e117cda11797a43495eae7cb53ac99a066c476c1bc0/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f373535343833353037363938313732303435" data-canonical-src="https://img.shields.io/discord/755483507698172045" style="max-width: 100%;">
 </a>
+
+
 
 
 <!--
