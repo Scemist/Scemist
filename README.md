@@ -10,7 +10,7 @@ Not to mention HTML, CSS and JS, Bootstrap too.
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
 </p>
 
-Constantly grateful for Git and Docker.
+Always blessed by Git and Docker.
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=git,docker&theme=dark">
