@@ -1,16 +1,16 @@
-Most of time, working with php under Laravel, connecting Postgres and MySQL.
+Most of time, working with **PHP** under **Laravel** connecting **Postgres**. Recently using **Python** with **Flask**.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,python,flask">
 </p>
 
-Not to mention HTML, CSS and JS, Bootstrap too.
+At the front **HTML**, **CSS** and **JS**, **Bootstrap** too.
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap">
 </p>
 
-Always using the Git, Docker and Linux environment.
+Developing in **Git**, **Docker** and **Linux** environment.
 
 <p align="center">
  <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx&theme=dark">
@@ -22,10 +22,10 @@ Always using the Git, Docker and Linux environment.
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6&hide=hack">
 </p>
 
-I'm also very excited to code in Python and Vue and learn more about NodeJS.
+I'm also very excited to learn more about **Vue**, **NodeJS** and **Kubernetes**.
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,vue,nodejs&theme=dark">
+    <img src="https://skillicons.dev/icons?i=vue,nodejs,kubernetes&theme=light">
 </p>
 
 ---
