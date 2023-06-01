@@ -13,7 +13,7 @@ Not to mention HTML, CSS and JS, Bootstrap too.
 Always using the Git, Docker and Linux environment.
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=git,docker,linux&theme=dark">
+ <img src="https://skillicons.dev/icons?i=git,docker,linux,nginx&theme=dark">
 </p>
 
 ---
