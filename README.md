@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,nodejs,kubernetes&theme=light">
+    <img src="https://skillicons.dev/icons?i=vue,kubernetes,nodejs,expressjs&theme=light">
 </p>
 
 ---
