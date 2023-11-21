@@ -29,11 +29,11 @@
 </p>
 
 <p align="center">
-    I'm also very excited to learn more about <strong>Vue</strong>, <strong>NodeJS</strong> and <strong>Kubernetes</strong>.
+    I'm also very excited to learn more about <strong>Vue</strong> and <strong>Kubernetes</strong>.
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,kubernetes,nodejs,expressjs&theme=light">
+    <img src="https://skillicons.dev/icons?i=vue,kubernetes,expressjs&theme=light">
 </p>
 
 ---
