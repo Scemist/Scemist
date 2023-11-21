@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,python,flask">
+    <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,python,flask,nodejs">
 </p>
 
 <p align="center">
