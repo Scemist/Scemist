@@ -25,7 +25,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=6&hide=hack">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=8&hide=hack">
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vue,kubernetes,expressjs&theme=light">
+    <img src="https://skillicons.dev/icons?i=vue,kubernetes,expressjs,flutter,dart&theme=light">
 </p>
 
 ---
