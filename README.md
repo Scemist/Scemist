@@ -25,7 +25,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=8&hide=hack">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scemist&layout=compact&langs_count=8&exclude_repo=GuaShop">
 </p>
 
 <p align="center">
